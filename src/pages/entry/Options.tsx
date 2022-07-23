@@ -3,7 +3,7 @@ import axios from 'axios';
 import Row from 'react-bootstrap/Row';
 
 import ScoopOption from './ScoopOption';
-import ToppingOption from './ToopingOption';
+import ToppingOption from './ToppingOption';
 import AlertBanner from '../common/AlertBanner';
 
 export interface ItemComponentProps {
